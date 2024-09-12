@@ -257,12 +257,11 @@ strong {
     flex-wrap: wrap;
 }
 
-.thirdSection > div{
-    display: flex;
-    gap: 4rem;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
+.thirdSection > div p{
+    max-width: 600px;
+    color: white;
+    text-align: justify;
+
 }
 
 .thirdSection > div .img-one,
@@ -272,6 +271,7 @@ width: 300px;
 height: 250px;
 border-radius: 10px;
 }
+
 
 .container {
     position: relative;
