@@ -393,5 +393,8 @@ strong {
 
 }
 
+.firstSection, .secondSection, .thirdSection, .fourthSection, .fifthSection {
+    visibility: hidden;
+}
 
 
