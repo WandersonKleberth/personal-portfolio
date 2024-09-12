@@ -205,9 +205,11 @@ strong {
     color: #0c193c;
 }
 
-.title {
-    color: white;
+.secondSection .title {
+    color: #0c193c;
     text-align: center;
+    font-size: 4rem;
+    letter-spacing: 4px;
 }
 
 /* Cards-Scond-section */
@@ -294,6 +296,12 @@ strong {
     flex-direction: column;
     gap: 2rem;
     color: #ffffff;
+}
+
+.thirdSection .title {
+    font-size: 4rem;
+    color: white;
+    letter-spacing: 4px;
 }
 
 .thirdSection>div {
